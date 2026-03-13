@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Clean the Room",
+        "description": "Perform a thorough cleaning of the room to ensure it is tidy and organized. This includes decluttering, dusting, and vacuuming.",
+        "summary": [
+            "Tidy up and organize personal belongings",
+            "Dust all surfaces and furniture",
+            "Vacuum or sweep the floor",
+            "Empty the trash bin"
+        ],
+        "date": "Mar 13 2026",
+        "variant": "small",
+        "volunteersNeeded": 1,
+        "priority": 3,
+        "id": 1,
+        "completed": true,
+        "completedOn": "Mar 13 2026"
+    },
+    {
+        "title": "Stay Hydrated",
+        "description": "Ensure you drink an adequate amount of water throughout the day to maintain health and energy levels.",
+        "tag": "personal",
+        "summary": [
+            "Drink a glass of water now",
+            "Maintain hydration throughout the day"
+        ],
+        "date": "Mar 13 2026",
+        "variant": "small",
+        "volunteersNeeded": 0,
+        "priority": 3,
+        "id": 2,
+        "completed": true,
+        "completedOn": "Mar 13 2026"
+    }
+]

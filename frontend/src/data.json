@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Iftar Prep",
+    "description": "Prepare 20 meals for the local area",
+    "date": "Mar 6th 2026",
+    "activeCrescents": 4,
+    "variant": "small",
+    "summary": [
+      "Assemble individual meal kits (dates, snacks, main course).",
+      "Logistics setup at distribution point.",
+      "Hygiene check of all items."
+    ],
+    "volunteersNeeded": 10
+  },
+  {
+    "id": 2,
+    "title": "Iftar Prep",
+    "description": "Prepare 20 meals for the local area",
+    "date": "Mar 6th 2026",
+    "activeCrescents": 4,
+    "variant": "small",
+    "summary": [
+      "Assemble individual meal kits (dates, snacks, main course).",
+      "Logistics setup at distribution point.",
+      "Hygiene check of all items."
+    ],
+    "volunteersNeeded": 10
+  },
+  {
+    "id": 3,
+    "title": "Iftar Prep",
+    "description": "Prepare 20 meals for the local area",
+    "date": "Mar 6th 2026",
+    "activeCrescents": 4,
+    "variant": "small",
+    "summary": [
+      "Assemble individual meal kits (dates, snacks, main course).",
+      "Logistics setup at distribution point.",
+      "Hygiene check of all items."
+    ],
+    "volunteersNeeded": 10
+  },
+  {
+    "id": 4,
+    "title": "Iftar Prep",
+    "description": "Prepare 20 meals for the local area",
+    "date": "Mar 6th 2026",
+    "activeCrescents": 5,
+    "variant": "small",
+    "completed": true,
+    "completedOn": "Mar 6th 2026",
+    "summary": [
+      "Assemble individual meal kits (dates, snacks, main course).",
+      "Logistics setup at distribution point.",
+      "Hygiene check of all items."
+    ],
+    "volunteersNeeded": 10
+  },
+  {
+    "id": 5,
+    "title": "Mosque Cleanup",
+    "description": "Going around the mosque and making sure everything is prepped and ready",
+    "date": "Mar 12th 2026",
+    "activeCrescents": 5,
+    "variant": "wide",
+    "completed": true,
+    "completedOn": "Mar 12th 2026",
+    "summary": [
+      "Sweep and mop all prayer halls.",
+      "Restock prayer mats and supplies.",
+      "Check all lighting and sound equipment."
+    ],
+    "volunteersNeeded": 15
+  }
+]
