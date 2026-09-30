@@ -6,7 +6,7 @@
 //  else will update automatically.
 // ─────────────────────────────────────────────────────────────
 
-const BASE_URL = "https://silver-broccoli-pj5r4956pxq726xrx-5000.app.github.dev";
+const BASE_URL = "https://fullstack-ramadan-project.onrender.com";
 
 // ── The shape of a Task as it comes back from the backend ──────
 // The backend uses `priority` (1‑5) instead of `activeCrescents`.
